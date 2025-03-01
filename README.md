@@ -11,3 +11,19 @@
 **Dashboard Overview:**
 
 ![Spotify](Spotify.png)
+
+# Project 2
+
+**Title:** Workplace Safety Data
+
+**SQL Code:** [Workplace Safety Sql Code](https://github.com/TY-tech01/TY-tech01.github.io/blob/main/Workplace_Safety_Data.sql)
+
+**SQL Skills Used:**
+Data Retrieval (SELECT): Queried and extracted specific information from the database.
+Data Aggregation (SUM, COUNT): Calculated totals, such as sales and quantities, and counted records to analyze data trends.
+Data Filtering (WHERE, BETWEEN, IN, AND): Applied filters to select relevant data, including filtering by ranges and lists.
+Data Source Specification (FROM): Specified the tables used as data sources for retrieval
+
+**Project Description:** 
+ 
+**Technology used:** SQL server
