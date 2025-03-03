@@ -10,7 +10,7 @@
 
 **Dashboard Overview:**
 
-![Spotify](Spotify.png)
+![Spotify]
 
 # Project 2
 
