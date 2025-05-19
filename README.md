@@ -93,3 +93,41 @@ The total cost of "Vehicle" related incidents?
 The age group most affected by "Falling Object" incidents?
  
 **Technology used:** SQL server
+
+# Project 3
+
+**Title:** HR Dashboard
+
+**Tools used:** Power BI: Power Query, DAX, Dashboards, Source connection and Transformation
+
+**Project Description:** The dashboard provides a holistic view of the employee lifecycle and key HR metrics. It also provides comprehensive insights into the company's workforce, enabling HR professionals to make data-driven decisions that improve employee engagement, optimize HR processes, and support overall organizational success. The dashboard includes the following features:
+
+Total Number Of Employee
+
+Total Number and percentages of Male and Female Employee.
+
+Total Service Years.
+
+Total Number and percentages of Employees due for promotion and Not due for Promotion.
+
+Various Job levels
+
+Active Employees and Employees Due for retirement.
+
+Distance Employees travels to work.
+
+**Key Findings:**
+
+There are more Male Employees than Female As 60% Of the total Employees are Male.
+
+8% of the total Employees are due for retirement so there will be need for recruitement.
+
+About 4.90% of the Employees are due for promotion.
+
+Mosts of the Employees are in Level 1 and 2 of the organization.
+
+More than 60% of the employees live close enough to work.
+
+More than 200 of the Employees has spent over 10 years in the Organization.
+
+**Dashboard Overview:**
