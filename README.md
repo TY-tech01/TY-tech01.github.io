@@ -132,4 +132,4 @@ More than 200 of the Employees has spent over 10 years in the Organization.
 
 **Dashboard Overview:**
 
-[HR DASHBOARD](POWERBI.png)
+(POWERBI.png)
