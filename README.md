@@ -96,7 +96,7 @@ The age group most affected by "Falling Object" incidents?
 
 # Project 3
 
-**Title:** HR Dashboard
+**Title:** [HR Dashboard](https://github.com/TY-tech01/TY-tech01.github.io/blob/main/HR%20Dashboard.pbix)
 
 **Tools used:** Power BI: Power Query, DAX, Dashboards, Source connection and Transformation
 
@@ -131,3 +131,4 @@ More than 60% of the employees live close enough to work.
 More than 200 of the Employees has spent over 10 years in the Organization.
 
 **Dashboard Overview:**
+
