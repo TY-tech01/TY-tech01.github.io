@@ -132,4 +132,4 @@ More than 200 of the Employees has spent over 10 years in the Organization.
 
 **Dashboard Overview:**
 
-[HR DASHBOARD](https://github.com/TY-tech01/TY-tech01.github.io/blob/main/POWERBI.png)
+[HR DASHBOARD](POWERBI.png)
